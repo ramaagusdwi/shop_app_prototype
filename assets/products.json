@@ -1,0 +1,454 @@
+{
+  "meta": {
+    "code": 200,
+    "status": "success",
+    "message": "Data list produk berhasil diambil"
+  },
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 2,
+        "name": "Ultra 4D 5 Shoes",
+        "price": 285,
+        "description": "When the adidas Ultraboost debuted back\r\nin 2015, it had an impact that spilled beyond\r\nthe world of running. For this version of t...",
+        "tags": null,
+        "categories_id": 5,
+        "deleted_at": null,
+        "created_at": "2021-04-15T10:17:22.000000Z",
+        "updated_at": "2021-04-15T10:27:20.000000Z",
+        "category": {
+          "id": 5,
+          "name": "Running",
+          "deleted_at": null,
+          "created_at": "2021-04-15T10:12:44.000000Z",
+          "updated_at": "2021-04-15T10:12:44.000000Z"
+        },
+        "galleries": [
+          {
+            "id": 1,
+            "products_id": 2,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-04-15T10:30:43.000000Z",
+            "updated_at": "2021-04-15T10:30:43.000000Z"
+          },
+
+          {
+            "id": 2,
+            "products_id": 2,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-04-15T10:30:43.000000Z",
+            "updated_at": "2021-04-15T10:30:43.000000Z"
+          },
+          {
+            "id": 3,
+            "products_id": 2,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-04-15T10:30:43.000000Z",
+            "updated_at": "2021-04-15T10:30:43.000000Z"
+          },
+          {
+            "id": 4,
+            "products_id": 2,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-04-15T10:30:43.000000Z",
+            "updated_at": "2021-04-15T10:30:43.000000Z"
+          },
+          {
+            "id": 5,
+            "products_id": 2,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-04-15T10:30:43.000000Z",
+            "updated_at": "2021-04-15T10:30:43.000000Z"
+          },
+          {
+            "id": 6,
+            "products_id": 2,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-04-15T10:30:43.000000Z",
+            "updated_at": "2021-04-15T10:30:43.000000Z"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "SL 20 Shoes",
+        "price": 123,
+        "description": "These adidas SL20 Shoes will back your play. \r\nLightweight cushioning gives you a faster \r\npush-off and a snappy feel.",
+        "tags": null,
+        "categories_id": 5,
+        "deleted_at": null,
+        "created_at": "2021-04-15T10:18:19.000000Z",
+        "updated_at": "2021-04-15T10:39:03.000000Z",
+        "category": {
+          "id": 5,
+          "name": "Running",
+          "deleted_at": null,
+          "created_at": "2021-04-15T10:12:44.000000Z",
+          "updated_at": "2021-04-15T10:12:44.000000Z"
+        },
+        "galleries": [
+          {
+            "id": 7,
+            "products_id": 3,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:23:36.000000Z",
+            "updated_at": "2021-05-04T07:23:36.000000Z"
+          },
+          {
+            "id": 8,
+            "products_id": 3,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:23:36.000000Z",
+            "updated_at": "2021-05-04T07:23:36.000000Z"
+          },
+          {
+            "id": 9,
+            "products_id": 3,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:23:36.000000Z",
+            "updated_at": "2021-05-04T07:23:36.000000Z"
+          },
+          {
+            "id": 10,
+            "products_id": 3,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:23:36.000000Z",
+            "updated_at": "2021-05-04T07:23:36.000000Z"
+          },
+          {
+            "id": 11,
+            "products_id": 3,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:23:36.000000Z",
+            "updated_at": "2021-05-04T07:23:36.000000Z"
+          },
+          {
+            "id": 12,
+            "products_id": 3,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:23:36.000000Z",
+            "updated_at": "2021-05-04T07:23:36.000000Z"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Ultra 4D 5 Shoes",
+        "price": 285,
+        "description": "When the adidas Ultraboost debuted back \r\nin 2015, it had an impact that spilled beyond \r\nthe world of running.",
+        "tags": null,
+        "categories_id": 5,
+        "deleted_at": null,
+        "created_at": "2021-04-15T10:18:51.000000Z",
+        "updated_at": "2021-04-15T10:40:20.000000Z",
+        "category": {
+          "id": 5,
+          "name": "Running",
+          "deleted_at": null,
+          "created_at": "2021-04-15T10:12:44.000000Z",
+          "updated_at": "2021-04-15T10:12:44.000000Z"
+        },
+        "galleries": [
+          {
+            "id": 13,
+            "products_id": 4,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:24:38.000000Z",
+            "updated_at": "2021-05-04T07:24:38.000000Z"
+          },
+          {
+            "id": 14,
+            "products_id": 4,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:24:38.000000Z",
+            "updated_at": "2021-05-04T07:24:38.000000Z"
+          },
+          {
+            "id": 15,
+            "products_id": 4,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:24:38.000000Z",
+            "updated_at": "2021-05-04T07:24:38.000000Z"
+          },
+          {
+            "id": 16,
+            "products_id": 4,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:24:38.000000Z",
+            "updated_at": "2021-05-04T07:24:38.000000Z"
+          },
+          {
+            "id": 17,
+            "products_id": 4,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:24:38.000000Z",
+            "updated_at": "2021-05-04T07:24:38.000000Z"
+          },
+          {
+            "id": 18,
+            "products_id": 4,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:24:38.000000Z",
+            "updated_at": "2021-05-04T07:24:38.000000Z"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Ultraboots 20 Shoes",
+        "price": 206,
+        "description": "Wear your values on your feet with these adi\r\ndas running shoes. Rocking the wild colours \r\nshows you're not shy about standing out.",
+        "tags": null,
+        "categories_id": 5,
+        "deleted_at": null,
+        "created_at": "2021-04-15T10:19:08.000000Z",
+        "updated_at": "2021-04-15T10:43:19.000000Z",
+        "category": {
+          "id": 5,
+          "name": "Running",
+          "deleted_at": null,
+          "created_at": "2021-04-15T10:12:44.000000Z",
+          "updated_at": "2021-04-15T10:12:44.000000Z"
+        },
+        "galleries": [
+          {
+            "id": 19,
+            "products_id": 5,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:25:28.000000Z",
+            "updated_at": "2021-05-04T07:25:28.000000Z"
+          },
+          {
+            "id": 20,
+            "products_id": 5,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:25:28.000000Z",
+            "updated_at": "2021-05-04T07:25:28.000000Z"
+          },
+          {
+            "id": 21,
+            "products_id": 5,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:25:28.000000Z",
+            "updated_at": "2021-05-04T07:25:28.000000Z"
+          },
+          {
+            "id": 22,
+            "products_id": 5,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:25:28.000000Z",
+            "updated_at": "2021-05-04T07:25:28.000000Z"
+          },
+          {
+            "id": 23,
+            "products_id": 5,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:25:28.000000Z",
+            "updated_at": "2021-05-04T07:25:28.000000Z"
+          },
+          {
+            "id": 24,
+            "products_id": 5,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:25:28.000000Z",
+            "updated_at": "2021-05-04T07:25:28.000000Z"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "LEGO\u00ae SPORT SHOES",
+        "price": 92,
+        "description": "These shoes keep kids comfortable through\r\nplaytime, whether that means running around\r\non building universes out of bricks.",
+        "tags": null,
+        "categories_id": 4,
+        "deleted_at": null,
+        "created_at": "2021-04-15T10:20:03.000000Z",
+        "updated_at": "2021-05-04T07:33:37.000000Z",
+        "category": {
+          "id": 4,
+          "name": "Training",
+          "deleted_at": null,
+          "created_at": "2021-04-15T10:12:34.000000Z",
+          "updated_at": "2021-04-15T10:21:21.000000Z"
+        },
+        "galleries": [
+          {
+            "id": 25,
+            "products_id": 6,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:26:32.000000Z",
+            "updated_at": "2021-05-04T07:26:32.000000Z"
+          },
+          {
+            "id": 26,
+            "products_id": 6,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:26:32.000000Z",
+            "updated_at": "2021-05-04T07:26:32.000000Z"
+          },
+          {
+            "id": 27,
+            "products_id": 6,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:26:32.000000Z",
+            "updated_at": "2021-05-04T07:26:32.000000Z"
+          },
+          {
+            "id": 28,
+            "products_id": 6,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:26:32.000000Z",
+            "updated_at": "2021-05-04T07:26:32.000000Z"
+          },
+          {
+            "id": 30,
+            "products_id": 6,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:26:32.000000Z",
+            "updated_at": "2021-05-04T07:26:32.000000Z"
+          },
+          {
+            "id": 31,
+            "products_id": 6,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:26:32.000000Z",
+            "updated_at": "2021-05-04T07:26:32.000000Z"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Fortarun Running\u2028Shoes 2020",
+        "price": 34,
+        "description": "Whether they're headed to school, day care\r\nor the playground with friends, send them\r\nout in all-day foot support with these adidas.",
+        "tags": null,
+        "categories_id": 4,
+        "deleted_at": null,
+        "created_at": "2021-04-15T10:21:05.000000Z",
+        "updated_at": "2021-05-04T07:36:17.000000Z",
+        "category": {
+          "id": 4,
+          "name": "Training",
+          "deleted_at": null,
+          "created_at": "2021-04-15T10:12:34.000000Z",
+          "updated_at": "2021-04-15T10:21:21.000000Z"
+        },
+        "galleries": [
+          {
+            "id": 50,
+            "products_id": 7,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:30:16.000000Z",
+            "updated_at": "2021-05-04T07:30:16.000000Z"
+          },
+          {
+            "id": 51,
+            "products_id": 7,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:30:16.000000Z",
+            "updated_at": "2021-05-04T07:30:16.000000Z"
+          },
+          {
+            "id": 52,
+            "products_id": 7,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:30:16.000000Z",
+            "updated_at": "2021-05-04T07:30:16.000000Z"
+          },
+          {
+            "id": 53,
+            "products_id": 7,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:30:16.000000Z",
+            "updated_at": "2021-05-04T07:30:16.000000Z"
+          },
+          {
+            "id": 54,
+            "products_id": 7,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:30:16.000000Z",
+            "updated_at": "2021-05-04T07:30:16.000000Z"
+          },
+          {
+            "id": 55,
+            "products_id": 7,
+            "url": "assets/image_shoes2.jpg",
+            "deleted_at": null,
+            "created_at": "2021-05-04T07:30:16.000000Z",
+            "updated_at": "2021-05-04T07:30:16.000000Z"
+          }
+        ]
+      }
+    ],
+    "first_page_url": "http://shamo-backend.buildwithangga.id/api/products?page=1",
+    "from": 1,
+    "last_page": 3,
+    "last_page_url": "http://shamo-backend.buildwithangga.id/api/products?page=3",
+    "links": [
+      { "url": null, "label": "&laquo; Previous", "active": false },
+      {
+        "url": "http://shamo-backend.buildwithangga.id/api/products?page=1",
+        "label": 1,
+        "active": true
+      },
+      {
+        "url": "http://shamo-backend.buildwithangga.id/api/products?page=2",
+        "label": 2,
+        "active": false
+      },
+      {
+        "url": "http://shamo-backend.buildwithangga.id/api/products?page=3",
+        "label": 3,
+        "active": false
+      },
+      {
+        "url": "http://shamo-backend.buildwithangga.id/api/products?page=2",
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": "http://shamo-backend.buildwithangga.id/api/products?page=2",
+    "path": "assets/image_shoes2.jpg",
+    "per_page": 6,
+    "prev_page_url": null,
+    "to": 6,
+    "total": 16
+  }
+}
