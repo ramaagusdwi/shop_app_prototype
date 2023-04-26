@@ -20,7 +20,7 @@ import 'package:shamo/providers/wishlist_provider.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  // await Firebase.initializeApp();
   runApp(MyApp());
 }
 
