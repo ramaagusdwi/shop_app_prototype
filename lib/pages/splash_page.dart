@@ -32,24 +32,13 @@ class _SplashPageState extends State<SplashPage> {
       backgroundColor: backgroundColor1,
       body: Container(
         color: Color(0xFFe19ee8),
-        child: Center(child: Image.asset('assets/image_splash.png')),
+        child: Center(
+            child: Text(
+          'Shop App Template',
+          style: whiteTextStyle.copyWith(fontSize: 32),
+        )),
       ),
-      // body: Container(
-      //   color: Color(0xFFe19ee8),
-      //   child: Center(
-      //     child: Container(
-      //       // width: 130,
-      //       // height: 150,
-      //       decoration: BoxDecoration(
-      //         image: DecorationImage(
-      //           image: AssetImage(
-      //             'assets/image_splash.png'
-      //           ),
-      //         ),
-      //       ),
-      //     ),
-      //   ),
-      // ),
+      
     );
   }
 }

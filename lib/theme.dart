@@ -27,6 +27,7 @@ Color transparentColor = Colors.transparent;
 Color blackColor = Color(0xff2E2E2E);
 Color disableColor = Color(0xffd9d9d9);
 Color shadowColor = Color(0xff999999);
+Color whiteColor = Color(0xffffffff);
 
 TextStyle primaryTextStyle = GoogleFonts.poppins(
   color: primaryTextColor,
@@ -50,6 +51,10 @@ TextStyle purpleTextStyle = GoogleFonts.poppins(
 
 TextStyle blackTextStyle = GoogleFonts.poppins(
   color: blackColor,
+);
+
+TextStyle whiteTextStyle = GoogleFonts.poppins(
+  color: whiteColor,
 );
 
 TextStyle alertTextStyle = GoogleFonts.poppins(
