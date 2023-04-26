@@ -1,4 +1,4 @@
-# delva_voucher
+# shop app for template 
 
 A new Flutter project.
 
